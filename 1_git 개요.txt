@@ -24,3 +24,5 @@ git 사용법)
 2. git config --global user.name [이름]
 3. git config --global user.email [이메일]
 4. git config --global --list
+
+버전 생성
